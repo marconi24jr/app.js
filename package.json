@@ -1,10 +1,10 @@
 {
-  "name" : "rest-api" ,
+  "name" : "aula terca" ,
   "versão" : " 1.0.0 " ,
   "descrição" : " " ,
-  "main" : " index.js " ,
-  "roteiros" : {
-    "start" : " aplicativo do nó "
+  "main": "app.js",
+  "scripts": {
+    "start":"node app"
   },
   "autor" : " " ,
   "licença" : " ISC " ,
